@@ -1,0 +1,26 @@
+[
+    {
+        "name": "2025 Acura Integra",
+        "type": "Cars",
+        "price": "37400",
+        "image": "https:\/\/www.usnews.com\/object\/image\/00000191-0014-dec1-afb3-28fd8ee80000\/01-2023-acura-integra-a-spec.jpg"
+    },
+    {
+        "name": "2024 Alfa Romeo Tonale",
+        "type": "Cars",
+        "price": "43845",
+        "image": "https:\/\/cars.usnews.com\/static\/images\/Auto\/custom\/15274\/2024_Alfa_Romeo_Tonale_Angular_Front_1.jpg"
+    },
+    {
+        "name": "Royal Enfield Hunter 350",
+        "type": "Bike",
+        "price": "5000",
+        "image": "https:\/\/imgd.aeplcdn.com\/664x374\/n\/cw\/ec\/1\/versions\/royalenfield-hunter-350-retro-factory1727790756803.jpg?q=80"
+    },
+    {
+        "name": "Honda SP 125",
+        "type": "Bike",
+        "price": "1000",
+        "image": "https:\/\/imgd.aeplcdn.com\/664x374\/n\/cw\/ec\/1\/versions\/honda-sp-125-drum1732631131257.jpg"
+    }
+]
